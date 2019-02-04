@@ -1,0 +1,10 @@
+To do list:
+
+More 'rooms'
+Rising water indicator needs work, perhaps the easiest way to do it is via lerping the value whenever it's updated instead of abruptly updating it.
+
+try making SOME walls more bouncy.
+Make "previous run" not ovelap "record run"
+
+
+Different difficulty modes: Different shapes for the player character. The more rounder the shape is the harder it will be. Triangle's the easiest, octagon's the hardest.
